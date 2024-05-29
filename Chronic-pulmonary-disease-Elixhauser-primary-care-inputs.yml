@@ -1,0 +1,327 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-antiasthmatics---primary.py
+inputModule3:
+  class: File
+  path: python/wheezy-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule4:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-oedema---primary.py
+inputModule5:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-emphysema---primary.py
+inputModule6:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-byssinosis---primary.py
+inputModule7:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-empyema---primary.py
+inputModule8:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-obstruct---primary.py
+inputModule9:
+  class: File
+  path: python/extrinsic-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule10:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-berylliosis---primary.py
+inputModule11:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-fibrosing---primary.py
+inputModule12:
+  class: File
+  path: python/chemical-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule13:
+  class: File
+  path: python/pleural-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule14:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-loeffler's---primary.py
+inputModule15:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-pulmolithiasis---primary.py
+inputModule16:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule17:
+  class: File
+  path: python/bronchial-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule18:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-organising---primary.py
+inputModule19:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-mediastinum---primary.py
+inputModule20:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-tracheobronchitis---primary.py
+inputModule21:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-worker---primary.py
+inputModule22:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-pneumothorax---primary.py
+inputModule23:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-abscess---primary.py
+inputModule24:
+  class: File
+  path: python/interstitial-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule25:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-manifestation---primary.py
+inputModule26:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-causing---primary.py
+inputModule27:
+  class: File
+  path: python/birdfancier-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule28:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-eosinophilia---primary.py
+inputModule29:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-bronchiectasis---primary.py
+inputModule30:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-silicosis---primary.py
+inputModule31:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-given---primary.py
+inputModule32:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-asbestosis---primary.py
+inputModule33:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-meconium---primary.py
+inputModule34:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-alveolitis---primary.py
+inputModule35:
+  class: File
+  path: python/unsuitable-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule36:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-cannabinosis---primary.py
+inputModule37:
+  class: File
+  path: python/recurrent-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule38:
+  class: File
+  path: python/perinatal-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule39:
+  class: File
+  path: python/inorganic-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule40:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-pneumonia---primary.py
+inputModule41:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-associated---primary.py
+inputModule42:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-obliteran---primary.py
+inputModule43:
+  class: File
+  path: python/bullous-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule44:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-dissent---primary.py
+inputModule45:
+  class: File
+  path: python/clinical-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule46:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-agreed---primary.py
+inputModule47:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-visit---primary.py
+inputModule48:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-flaxdressers'---primary.py
+inputModule49:
+  class: File
+  path: python/pneumopathy-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule50:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-pneumonitis---primary.py
+inputModule51:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-fistula---primary.py
+inputModule52:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-agent---primary.py
+inputModule53:
+  class: File
+  path: python/parietoalveolar-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule54:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-related---primary.py
+inputModule55:
+  class: File
+  path: python/mixed-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule56:
+  class: File
+  path: python/other-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule57:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-airway---primary.py
+inputModule58:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-condition---primary.py
+inputModule59:
+  class: File
+  path: python/massive-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule60:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-pyothorax---primary.py
+inputModule61:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-farmer---primary.py
+inputModule62:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-smoking---primary.py
+inputModule63:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-haemosiderosis---primary.py
+inputModule64:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-number---primary.py
+inputModule65:
+  class: File
+  path: python/purulent-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule66:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-asthmaticu---primary.py
+inputModule67:
+  class: File
+  path: python/plaque-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule68:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-service---primary.py
+inputModule69:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-lung---primary.py
+inputModule70:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-radiation---primary.py
+inputModule71:
+  class: File
+  path: python/cryptogenic-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule72:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-pathway---primary.py
+inputModule73:
+  class: File
+  path: python/fancier-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule74:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-tuberculosis---primary.py
+inputModule75:
+  class: File
+  path: python/acute-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule76:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-pneumoconiosis---primary.py
+inputModule77:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-followup---primary.py
+inputModule78:
+  class: File
+  path: python/occupational-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule79:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-disturbing---primary.py
+inputModule80:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-inhalation---primary.py
+inputModule81:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-confirmed---primary.py
+inputModule82:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-druginduced---primary.py
+inputModule83:
+  class: File
+  path: python/congenital-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule84:
+  class: File
+  path: python/hypostatic-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule85:
+  class: File
+  path: python/annual-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule86:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-reporting---primary.py
+inputModule87:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-silica---primary.py
+inputModule88:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-failure---primary.py
+inputModule89:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-hypostasis---primary.py
+inputModule90:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-compensatory---primary.py
+inputModule91:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-respiratory---primary.py
+inputModule92:
+  class: File
+  path: python/multiple-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule93:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-selfmanagement---primary.py
+inputModule94:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-exacerbation---primary.py
+inputModule95:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-bronchiolitis---primary.py
+inputModule96:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-doctor---primary.py
+inputModule97:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-broncholithiasis---primary.py
+inputModule98:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-suberosis---primary.py
+inputModule99:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-stannosis---primary.py
+inputModule100:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-hypersensitivity---primary.py
+inputModule101:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-theophylline---primary.py
+inputModule102:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-sequoiosis---primary.py
+inputModule103:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-unspecified---primary.py
+inputModule104:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-emergency---primary.py
+inputModule105:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-appointment---primary.py
+inputModule106:
+  class: File
+  path: python/intestinal-chronic-pulmonary-disease-elixhauser-primary-care---primary.py
+inputModule107:
+  class: File
+  path: python/chronic-pulmonary-disease-elixhauser-primary-care-bagassosis---primary.py
+inputModule108:
+  class: File
+  path: python/output-cases.py
